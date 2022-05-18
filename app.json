@@ -1,6 +1,6 @@
 {
-  "name": "Pyrogram String Session Generator",
-  "description": "Telegram bot to generate pyrogram string session",
+  "name": "Pyrogram String Oturum Jeneratörü",
+  "description": "Pirogram dize oturumu oluşturmak için Telegram botu",
   "logo": "https://telegra.ph/file/7ec22c82f580a334dd13e.jpg",
   "keywords": [
     "telegram",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/StringSessionBot",
+  "repository": "https://github.com/Pulsar8806/Sision",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
